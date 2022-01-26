@@ -1,0 +1,6 @@
+DELETE http://localhost/apiNew2/delete.php
+Content-Type: application/json
+
+{
+        "id": 8
+}
